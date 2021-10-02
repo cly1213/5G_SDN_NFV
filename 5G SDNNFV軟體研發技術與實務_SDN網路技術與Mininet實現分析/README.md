@@ -10,12 +10,22 @@ Just a concept
 ### Open vSwitch
 https://www.openvswitch.org/
 
+Install(on ubuntu) 
+
+```
+sudo apt-get install openvswitch-switch
+```
+
  - OVS(DPDK)
  https://www.dpdk.org/
 
  - OVS(OpenStack)
  - Mininet
  http://mininet.org/
+
+ ```
+ sudo apt-get install mininet
+ ```
 
 ### P4 Language
 https://github.com/p4lang/tutorials
